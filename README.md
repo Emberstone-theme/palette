@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-> A cohesive collection of visual themes designed for the tools you use every day.
+A cohesive collection of visual themes designed for the tools you use every day.
 
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license "License")
 [![Made with Node](https://img.shields.io/badge/dynamic/json?label=node&query=%24.engines[%22node%22]&url=https://raw.githubusercontent.com/Emberstone-theme/palette/main/package.json)](https://nodejs.org "Go to Node.js homepage")

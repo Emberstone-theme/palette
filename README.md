@@ -24,7 +24,7 @@ References versions are the JSON files in the `./palette/hex` directory.
 To update the palette, make the needed changes in the JSON file, and then run this command to update all palettes formats (require node 20+) :
 
 ```bash
-node ./build.js
+node ./scripts/build.js
 ```
 
 ## 💬 Contributing

@@ -1,0 +1,19 @@
+{
+  "name": "palette",
+  "version": "0.0.1",
+  "description": "A vibrant, dark theme with warm accents to boost focus. Designed for those seeking a solid, lively environment that’s easy on the eyes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emberstone-theme/palette.git"
+  },
+  "author": "samYorel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Emberstone-theme/palette/issues"
+  },
+  "homepage": "https://github.com/Emberstone-theme/palette#readme"
+}

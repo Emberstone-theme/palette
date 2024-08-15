@@ -14,7 +14,18 @@ A vibrant, dark theme with warm accents to boost focus. Designed for those seeki
 
 ## 🎨 Color palette
 
+### Online reference
+
 You can access to the Figma version, always up to date : [figma palette](https://www.figma.com/design/MVqAtxFct344uUigFxsbya/Emberstonbe-Theme-research?node-id=0-1&t=Ud7ZHjzNFhPdlMNp-1).
+
+### Adjusting the palette
+
+References versions are the JSON files in the `./palette/hex` directory.
+To update the palette, make the needed changes in the JSON file, and then run this command to update all palettes formats (require node 20+) :
+
+```bash
+node ./build.js
+```
 
 ## 💬 Contributing
 

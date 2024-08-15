@@ -1,0 +1,44 @@
+/* 
+    This file is auto-generated.
+    It contains the color palette for the Emberstone theme.
+    For more information, visit: https://github.com/Emberstone-theme/palette 
+*/
+
+:root {
+    --ocean-faded: #8AD9E9;
+    --ocean-regular: #00849A;
+    --ocean-intense: #005278;
+    --ocean-darken: #142734;
+    --mauve-faded: #D7C0E4;
+    --mauve-regular: #A17AB5;
+    --mauve-intense: #57345A;
+    --mauve-darken: #27212E;
+    --pistachio-faded: #A8E7D2;
+    --pistachio-regular: #7FA39F;
+    --pistachio-intense: #3F6B57;
+    --pistachio-darken: #222C2E;
+    --olive-faded: #C9E295;
+    --olive-regular: #9BBA51;
+    --olive-intense: #637411;
+    --olive-darken: #272D20;
+    --merigold-faded: #ECDA9C;
+    --merigold-regular: #CAA53E;
+    --merigold-intense: #AB7400;
+    --merigold-darken: #362D22;
+    --orange-faded: #ECC6AE;
+    --orange-regular: #D88349;
+    --orange-intense: #BD4C1B;
+    --orange-darken: #352320;
+    --rose-faded: #EDB7BF;
+    --rose-regular: #C84C53;
+    --rose-intense: #C41323;
+    --rose-darken: #361A24;
+    --background-faded: #242835;
+    --background-regular: #151722;
+    --background-intense: #10121A;
+    --background-darken: #0A0A0E;
+    --foreground-faded: #E3E3E3;
+    --foreground-regular: #F8EDDC;
+    --foreground-intense: #ECD2AB;
+    --foreground-darken: #A7A9A1;
+}

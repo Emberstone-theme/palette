@@ -1,0 +1,53 @@
+# 
+# This file is auto-generated.
+# It contains the color palette for the Emberstone theme.
+# For more information, visit: https://github.com/Emberstone-theme/palette 
+#
+
+version: "0.0.1"
+colors:
+  ocean:
+    faded: "#8AD9E9"
+    regular: "#00849A"
+    intense: "#005278"
+    darken: "#142734"
+  mauve:
+    faded: "#D7C0E4"
+    regular: "#A17AB5"
+    intense: "#57345A"
+    darken: "#27212E"
+  pistachio:
+    faded: "#A8E7D2"
+    regular: "#7FA39F"
+    intense: "#3F6B57"
+    darken: "#222C2E"
+  olive:
+    faded: "#C9E295"
+    regular: "#9BBA51"
+    intense: "#637411"
+    darken: "#272D20"
+  merigold:
+    faded: "#ECDA9C"
+    regular: "#CAA53E"
+    intense: "#AB7400"
+    darken: "#362D22"
+  orange:
+    faded: "#ECC6AE"
+    regular: "#D88349"
+    intense: "#BD4C1B"
+    darken: "#352320"
+  rose:
+    faded: "#EDB7BF"
+    regular: "#C84C53"
+    intense: "#C41323"
+    darken: "#361A24"
+  background:
+    faded: "#E3E3E3"
+    regular: "#F8EDDC"
+    intense: "#ECD2AB"
+    darken: "#A7A9A1"
+  foreground:
+    faded: "#242835"
+    regular: "#151722"
+    intense: "#10121A"
+    darken: "#0A0A0E"

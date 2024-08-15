@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Directory containing the JSON palette files
-const paletteDir = './palette/hex';
+const paletteDir = './palette/json';
 
 // Output directories for different formats
 const outputDirs = {

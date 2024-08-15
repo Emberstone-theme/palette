@@ -4,8 +4,13 @@
 	Emberstone palette
 </h1>
 
-**Welcome to Emberstone!**  
-A cohesive collection of visual themes designed for the tools you use every day.
+<div align="center">
+> A cohesive collection of visual themes designed for the tools you use every day.
+
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license "License")
+[![Made with Node](https://img.shields.io/badge/dynamic/json?label=node&query=%24.engines[%22node%22]&url=https://raw.githubusercontent.com/Emberstone-theme/palette/main/package.json)](https://nodejs.org "Go to Node.js homepage")
+![Contributions - welcome](https://img.shields.io/badge/Contributions-welcome-blueviolet)
+</div>
 
 A vibrant, dark theme with warm accents to boost focus. Designed for those seeking a solid, lively environment that’s easy on the eyes.
 
